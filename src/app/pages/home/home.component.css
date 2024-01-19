@@ -1,0 +1,16 @@
+.articles{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+
+}
+
+.articles__others{
+    margin-left: 20%;
+}
+
+header{
+    display: flex;
+    margin-top: 1%;
+
+}

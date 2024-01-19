@@ -1,0 +1,18 @@
+.container__menu-bar > ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    
+}
+.container__menu-bar > ul > li{
+    margin-right: 15px;
+    list-style: none;
+}
+
+.container__menu-bar > ul > li:hover {
+    text-decoration: underline 5px;
+    color: rgb(255, 255, 255);
+
+}
+
+
